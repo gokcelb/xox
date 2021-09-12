@@ -6,6 +6,17 @@ Remember how we played tictactoe on a paper when we were young? Well, `XOX` is e
 
 Oh! I forgot, with my application, you don't write "x"s and "o"s as input, but rather "0 0" and "2 1"s. These numbers indicate the indexes of our board which is made of a 2D array.
 
+## Quick Start
+
+To run the application from scratch, use the commands below.
+
+```bash
+$ git clone https://github.com/gokcelb/xox
+$ cd /xox
+$ python tictactoe.py # for Windows
+$ python3 tictactoe.py # for Linux and Darwin
+```
+
 When the application is first run, it prints out a sample input and a blank board.
 
 ```
