@@ -29,4 +29,15 @@ Below you can see how your input (in this case "0 1") looks on the tictactoe boa
   |   |  
 ```
 
+Below x wins the game and the application prints "x wins" and stops running.
+
+```
+x |   | o
+---------
+  | x | o
+---------
+  |   | x
+x wins
+```
+
 Unfortunately the application is not dynamic, meaning you can only play tictactoe on a 3x board. But it is still an amusing pass-time activity!
