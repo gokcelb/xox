@@ -12,7 +12,7 @@ To run the application from scratch, use the commands below.
 
 ```bash
 $ git clone https://github.com/gokcelb/xox
-$ cd /xox
+$ cd xox
 $ python tictactoe.py # for Windows
 $ python3 tictactoe.py # for Linux and Darwin
 ```
